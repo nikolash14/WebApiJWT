@@ -1,0 +1,15 @@
+E:\Projects\Learning\WebApi\ESSLogger\bin\Debug\net6.0\ESSLogger.deps.json
+E:\Projects\Learning\WebApi\ESSLogger\bin\Debug\net6.0\ESSLogger.dll
+E:\Projects\Learning\WebApi\ESSLogger\bin\Debug\net6.0\ESSLogger.pdb
+E:\Projects\Learning\WebApi\ESSLogger\bin\Debug\net6.0\ESSModels.dll
+E:\Projects\Learning\WebApi\ESSLogger\bin\Debug\net6.0\ESSModels.pdb
+E:\Projects\Learning\WebApi\ESSLogger\obj\Debug\net6.0\ESSLogger.csproj.AssemblyReference.cache
+E:\Projects\Learning\WebApi\ESSLogger\obj\Debug\net6.0\ESSLogger.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Learning\WebApi\ESSLogger\obj\Debug\net6.0\ESSLogger.AssemblyInfoInputs.cache
+E:\Projects\Learning\WebApi\ESSLogger\obj\Debug\net6.0\ESSLogger.AssemblyInfo.cs
+E:\Projects\Learning\WebApi\ESSLogger\obj\Debug\net6.0\ESSLogger.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\WebApi\ESSLogger\obj\Debug\net6.0\ESSLogger.csproj.CopyComplete
+E:\Projects\Learning\WebApi\ESSLogger\obj\Debug\net6.0\ESSLogger.dll
+E:\Projects\Learning\WebApi\ESSLogger\obj\Debug\net6.0\refint\ESSLogger.dll
+E:\Projects\Learning\WebApi\ESSLogger\obj\Debug\net6.0\ESSLogger.pdb
+E:\Projects\Learning\WebApi\ESSLogger\obj\Debug\net6.0\ref\ESSLogger.dll

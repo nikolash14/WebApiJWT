@@ -1,0 +1,12 @@
+E:\Projects\Learning\WebApi\ESSModels\bin\Debug\net6.0\ESSModels.deps.json
+E:\Projects\Learning\WebApi\ESSModels\bin\Debug\net6.0\ESSModels.dll
+E:\Projects\Learning\WebApi\ESSModels\bin\Debug\net6.0\ESSModels.pdb
+E:\Projects\Learning\WebApi\ESSModels\obj\Debug\net6.0\ESSModels.csproj.AssemblyReference.cache
+E:\Projects\Learning\WebApi\ESSModels\obj\Debug\net6.0\ESSModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Learning\WebApi\ESSModels\obj\Debug\net6.0\ESSModels.AssemblyInfoInputs.cache
+E:\Projects\Learning\WebApi\ESSModels\obj\Debug\net6.0\ESSModels.AssemblyInfo.cs
+E:\Projects\Learning\WebApi\ESSModels\obj\Debug\net6.0\ESSModels.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\WebApi\ESSModels\obj\Debug\net6.0\ESSModels.dll
+E:\Projects\Learning\WebApi\ESSModels\obj\Debug\net6.0\refint\ESSModels.dll
+E:\Projects\Learning\WebApi\ESSModels\obj\Debug\net6.0\ESSModels.pdb
+E:\Projects\Learning\WebApi\ESSModels\obj\Debug\net6.0\ref\ESSModels.dll

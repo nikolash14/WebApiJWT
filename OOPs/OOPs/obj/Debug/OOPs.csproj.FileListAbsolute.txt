@@ -1,0 +1,11 @@
+E:\Projects\Learning\OOPs\OOPs\obj\Debug\OOPs.csproj.AssemblyReference.cache
+E:\Projects\Learning\OOPs\OOPs\obj\Debug\OOPs.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\OOPs\OOPs\obj\Debug\OOPs.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\OOPs\OOPs\bin\Debug\OOPs.exe.config
+E:\Projects\Learning\OOPs\OOPs\bin\Debug\OOPs.exe
+E:\Projects\Learning\OOPs\OOPs\bin\Debug\OOPs.pdb
+E:\Projects\Learning\OOPs\OOPs\bin\Debug\ObjectLibrary.dll
+E:\Projects\Learning\OOPs\OOPs\bin\Debug\ObjectLibrary.pdb
+E:\Projects\Learning\OOPs\OOPs\obj\Debug\OOPs.csproj.CopyComplete
+E:\Projects\Learning\OOPs\OOPs\obj\Debug\OOPs.exe
+E:\Projects\Learning\OOPs\OOPs\obj\Debug\OOPs.pdb

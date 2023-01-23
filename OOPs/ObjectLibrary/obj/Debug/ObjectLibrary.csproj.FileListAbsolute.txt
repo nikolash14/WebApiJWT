@@ -1,0 +1,6 @@
+E:\Projects\Learning\OOPs\ObjectLibrary\bin\Debug\ObjectLibrary.dll
+E:\Projects\Learning\OOPs\ObjectLibrary\bin\Debug\ObjectLibrary.pdb
+E:\Projects\Learning\OOPs\ObjectLibrary\obj\Debug\ObjectLibrary.csproj.AssemblyReference.cache
+E:\Projects\Learning\OOPs\ObjectLibrary\obj\Debug\ObjectLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\OOPs\ObjectLibrary\obj\Debug\ObjectLibrary.dll
+E:\Projects\Learning\OOPs\ObjectLibrary\obj\Debug\ObjectLibrary.pdb

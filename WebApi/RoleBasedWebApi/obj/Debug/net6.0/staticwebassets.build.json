@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BoVbQfe0YwaL0CBV+c8vYbmMhKc0JVHV5lfQ7KFBR+o=",
+  "Source": "RoleBasedWebApi",
+  "BasePath": "_content/RoleBasedWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
